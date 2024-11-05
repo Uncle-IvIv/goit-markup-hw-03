@@ -147,3 +147,10 @@ img {
 h1, h2, h3, h4, h5, h6, p, ul {
   margin: o;
 }
+.container {
+  max-width: 1158px;
+    padding-left:;
+     padding-right:;
+      margin-left:;
+       margin-right:;
+}
