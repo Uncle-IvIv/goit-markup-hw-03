@@ -149,8 +149,8 @@ h1, h2, h3, h4, h5, h6, p, ul {
 }
 .container {
   max-width: 1158px;
-    padding-left:;
-     padding-right:;
-      margin-left:;
-       margin-right:;
+    padding-left:0;
+     padding-right:0;
+      margin-left:0;
+       margin-right:0;
 }
