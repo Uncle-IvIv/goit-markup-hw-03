@@ -157,3 +157,6 @@ h1, h2, h3, h4, h5, h6, p, ul {
 .header-box {
   border-bottom: 1px solid #e7e9fc;
 }
+.header-cont-a {
+  display: flex;
+}
