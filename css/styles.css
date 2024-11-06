@@ -148,15 +148,11 @@ h1, h2, h3, h4, h5, h6, p, ul {
   margin: 0;
 }
 .container {
+  display: flex;
   max-width: 1158px;
-    padding-left:0;
-     padding-right:0;
-      margin-left:0;
-       margin-right:0;
-}
+  padding: 0 15px;;
+  margin: 0 auto;
+     }
 .header-box {
   border-bottom: 1px solid #e7e9fc;
-}
-.header-cont-a {
-  display: flex;
 }
