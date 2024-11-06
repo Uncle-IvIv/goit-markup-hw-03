@@ -66,6 +66,10 @@ span {
   letter-spacing: 0.04em;
   color: #ffffff;
   cursor: pointer;
+  min-width: 169px;
+  height: 56px;
+  border: none;
+  border-radius: 4px;
 }
 .button-styl:hover {
   background-color: #404bbf;
