@@ -12,6 +12,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  margin-right: 76px;
 }
 span {
   color: #2e2f42;
@@ -155,4 +156,8 @@ h1, h2, h3, h4, h5, h6, p, ul {
      }
 .header-box {
   border-bottom: 1px solid #e7e9fc;
+}
+.nav-box {
+  display: flex;
+  align-items: center;
 }
