@@ -83,6 +83,7 @@ span {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;;
 }
 .p-section-one {
   line-height: 1.5;
@@ -178,4 +179,11 @@ h1, h2, h3, h4, h5, h6, p, ul {
 }
 .container-two {
   padding: 120px 0;
+}
+.ul-two {
+  display: flex;
+  gap: 24px;
+}
+.li-one-two {
+  width: calc((100% - 72px) / 4);
 }
