@@ -124,6 +124,7 @@ span {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  margin-bottom: 72px;
 }
 .out-portfolio-bank {
   font-weight: 500;
@@ -131,6 +132,7 @@ span {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 .out-portfolio-app {
   font-size: 16px;
@@ -215,4 +217,21 @@ h1, h2, h3, h4, h5, h6, p, ul {
 }
 .product-designer {
   padding: 32px 0;
+}
+.container-our-portfolio {
+  padding: 120px 0 120px 0;
+}
+.ul-four {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 24px;
+  row-gap: 48px;
+}
+.li-our-profile-one {
+  width: calc((100% - 48px) / 3);
+}
+.our-profile {
+  padding: 32px 16px;
+  border: 1px solid #e7e9fc;
+  border-top: none;
 }
