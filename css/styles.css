@@ -13,8 +13,6 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
   margin-right: 76px;
-  display: flex;
-  align-items: center;
   margin-bottom: 16px;
 }
 span {
