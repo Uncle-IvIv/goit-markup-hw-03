@@ -253,3 +253,7 @@ ol {
 .li-our-profile {
   width: calc((100% - 48px) / 3);
 }
+.footer-logo {
+  padding: 100px 0;
+  display: inline-block;
+}
