@@ -13,7 +13,8 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
   margin-right: 76px;
-  display: inline-block;
+  display: flex;
+  align-items: center;
   margin-bottom: 16px;
 }
 span {
@@ -182,6 +183,10 @@ ol {
 .header-box {
   border-bottom: 1px solid #e7e9fc;
 }
+.header-container {
+  display: flex;
+  align-items: center;
+}
 .nav-box {
   display: flex;
   align-items: center;
@@ -189,10 +194,12 @@ ol {
 .ul-box {
   display: flex;
   gap: 40px;
+  align-items: center;
 }
 .ul-adress-box {
   display: flex;
   gap: 40px;
+  align-items: center;
 }
 .container-two {
   padding: 120px 0;
