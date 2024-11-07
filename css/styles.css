@@ -15,9 +15,6 @@ body {
   margin-right: 76px;
   margin-bottom: 16px;
 }
-span {
-  color: #2e2f42;
-}
 .nav-punkt-st {
   font-weight: 500;
   font-size: 16px;
@@ -182,8 +179,16 @@ ol {
   border-bottom: 1px solid #e7e9fc;
 }
 .header-container {
+  color: #2e2f42;
   display: flex;
   align-items: center;
+}
+.header-logo {
+  padding: 24 0;
+  margin-right: 76;
+}
+.header-logo .logo-part {
+  color: #2e2f42;
 }
 .nav-box {
   display: flex;
