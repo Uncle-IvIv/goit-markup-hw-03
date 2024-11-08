@@ -277,6 +277,7 @@ ol {
 }
 .footer-logo {
   display: inline-block;
+  margin-bottom: 16px;
 }
 .p-section-two {
 line-height: 1.5;
