@@ -198,6 +198,8 @@ ol {
      }
 .header-box {
   border-bottom: 1px solid #e7e9fc;
+  width: 1440px;
+  height: 72px;
 }
 .header-container {
   color: #2e2f42;
@@ -214,6 +216,7 @@ ol {
 .nav-box {
   display: flex;
   align-items: center;
+  margin-top: 24px;
 }
 .ul-box {
   display: flex;
