@@ -53,7 +53,6 @@ white-space: nowrap;
 .hg-button-style {
   display: flex;
   flex-direction: column;
-  margin: auto;
  
 }
 .hg-styl {
@@ -64,9 +63,10 @@ white-space: nowrap;
   letter-spacing: 0.02em;
   text-align: center;
   color:#fff;
-  margin: auto;
+  margin: 0 auto;
+  box-sizing: border-box;
+  width: 576px;
   height: 120px;
-  width: 600px;
  
 }
 .button-styl {
@@ -84,7 +84,8 @@ white-space: nowrap;
   border-radius: 4px;
   display: block;
   margin: auto;
-  margin-top: 188px;
+  margin-top: 45px;
+  
 }
 .button-styl:hover {
   background-color: #404bbf;
