@@ -94,7 +94,7 @@ white-space: nowrap;
   background-color: #404bbf;
 }
 .ht-styl {
-  font-weight: 496px;
+  font-weight: 700;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
@@ -207,8 +207,8 @@ ol {
   align-items: center;
 }
 .header-logo {
-  padding: 24 0;
-  margin-right: 76;
+  padding: 24px 0;
+  margin-right: 76px;
 }
 .header-logo .logo-part {
   color: #2e2f42;
