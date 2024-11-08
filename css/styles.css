@@ -106,7 +106,7 @@ white-space: nowrap;
 .p-section-one {
   line-height: 1.5;
   letter-spacing: 0.02em;
-  text-align: left;
+  text-align: center;
 }
 .container-our-tem {
   background-color: #f4f4fd;
@@ -124,6 +124,7 @@ white-space: nowrap;
   background-color: #ffffff;
   width: calc((100% - 72px) / 4);
   border-radius: 0px 0px 4px 4px;
+ 
 }
 .ht-our-time-mark {
   font-weight: 500;
@@ -255,6 +256,7 @@ ol {
 }
 .product-designer {
   padding: 32px 0;
+
 }
 .container-our-portfolio {
   padding: 120px 0 120px 0;
