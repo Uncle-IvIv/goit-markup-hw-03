@@ -48,6 +48,11 @@ body {
 .adress-email:focus {
   color: #404bbf;
 }
+.container {
+  max-width: 1158px;
+  ;
+  margin: 0 auto;
+}
 .main-styl {
   background-color: #2e2f42;
   padding-top: 188px;
@@ -61,11 +66,11 @@ body {
   line-height: 107%;
   letter-spacing: 0.02em;
   text-align: center;
-  color:#fff;
+  color:#ffffff;
   margin: 0 auto 48px;
   width: 496px;
-  display: block;
-  }
+  height: 120px;
+     }
 .button {
   background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
@@ -81,6 +86,9 @@ body {
   margin-left: auto;
   margin-right: auto;
   padding: 16px 32px;
+  min-width: 169px;
+  height: 56px;
+  border: none;
  
   
 }
@@ -187,11 +195,6 @@ ol {
   margin: 0;
   padding: 0;
 }
-.container {
-  max-width: 1158px;
-  padding: 0 15px;;
-  margin: 0 auto;
-     }
 .header-box {
   border-bottom: 1px solid #e7e9fc;
 }
