@@ -57,7 +57,6 @@ body {
   background-color: #2e2f42;
   padding-top: 188px;
   padding-bottom: 188px;
-
 }
 .hg-styl {
   font-family: var(--font-family);
@@ -89,9 +88,7 @@ body {
   min-width: 169px;
   height: 56px;
   border: none;
- 
-  
-}
+ }
 .styl:hover {
   background-color: #404bbf;
 }
